@@ -1,4 +1,27 @@
-.App {
+.center{
   text-align: center;
 }
 
+.card-container {
+  height: 300px;
+  width: 200px;
+  background-color: #FFF;
+  box-shadow: 0px 0px 7px #666;
+
+}
+.background-color {
+  background-color: #5CA4A9;
+}
+
+.label-container {
+  height: 20px;
+}
+
+.flex {
+  display: inline-flex;
+} 
+
+.spacing {
+  padding: 50px;
+  margin: 20px;
+}
